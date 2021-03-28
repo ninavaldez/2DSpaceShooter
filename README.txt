@@ -10,6 +10,8 @@
 
 2.) List of source files submitted
 
+	a. background_controller.cs
+	b. barrier_controller.cs
 	c. bullet_controller.cs
 	d. bullet_enemy_controller.cs
 	f. enemy_manager.cs
